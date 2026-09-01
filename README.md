@@ -3251,6 +3251,75 @@
 <img width="1535" height="1024" alt="Image" src="https://github.com/user-attachments/assets/31e7c60b-27e0-49e6-87f6-e47dc7983ff2" />
 <img width="450" height="496" alt="Image" src="https://github.com/user-attachments/assets/d64d89f5-9950-406f-a54a-bc68efb07985" />
 
+M-PVC is microcellular PVC, not Modified PVC used in piping.
+In other words, it is a composite window system based on micro-porous PVC, combining aluminum and PVC into a single profile.
+
+By bonding PVC to an aluminum frame and leveraging excellent technical expertise, we structurally created a single frame.
+
+It is designed to overcome the limitations of conventional window and door materials by combining aluminum’s structural rigidity and precision with PVC’s excellent insulation performance.
+Window and door profiles have continued to evolve for better insulation and structural stability.
+M-PVC builds on the advantages of conventional PVC by combining its micro-foamed structure with aluminum to achieve a higher level of performance.
+By combining Microcellular PVC with an even finer and more uniform cell structure with aluminum, it achieves both insulation and structural rigidity.
+Preserve the advantages of existing PVC, The limit has been crossed.
+The difference in M-PVC begins in the structure.
+By combining micro-porous-structured M-PVC with aluminum, we have integrated the wide range of window performance needs into a single system, from insulation to structural stability.
+One technique, two structures.
+Depending on the application method, M-PVC consists of two systems: H TYPE and F TYPE.
+
+Depending on the scope and purpose, you can select a system optimized for structure and insulation performance.
+M-PVC H TYPE
+A balance between performance and design
+M-PVC H is a system that applies M-PVC to the required areas, balancing the structural rigidity of aluminum with the thermal insulation performance of M-PVC.
+
+M-PVC F TYPE
+A structure focused on insulation performance
+M-PVC F is a system designed to expand the application scope of M-PVC, more effectively block heat transfer paths, and achieve high insulation performance.
+
+Even if the shapes differ, the core technology is the same.
+Both H TYPE and F TYPE combine the structural stability of aluminum with the insulating properties of microcellular PVC. Depending on the application environment and required performance, an appropriate structure can be selected to meet the needs of various architectural environments.
+Measuring M-PVC performance by numbers.
+M-PVC delivers window performance for a comfortable indoor environment through insulation, soundproofing, and condensation prevention.
+0.725 ~ 0.799
+W/㎡·K
+THERMAL TRANSMITTANCE
+Thermal transmittance rate
+The thermal transmittance is a figure that indicates the amount of heat transmitted through a window or door. The lower the figure, the better the insulation performance.
+
+SOUND INSULATION
+Noise Isolation Performance
+It reduces the intrusion of external noise into the interior, creating a quieter and more comfortable indoor environment.
+
+SOUND INSULATION
+40 ~ 45
+dB
+Central Region 1
+Meets the standard
+Installation available throughout the area
+CONDENSATION PERFORMANCE
+Anti-condensation performance
+Based on the condensation prevention performance standards for Central Region 1, ensure the performance of the central part of the glass, the corners, and the window frame and sash.
+M-PVC is completed with a variety of system windows.
+M-PVC consists of various window and door systems in different forms, tailored to various opening and closing methods and design conditions.
+Explore M-PVC’s diverse product range, from profile structures to applied applications.
+COMPANY
+JJ System / Barton Windows
+VATON WINDOW SYSTEM
+M-PVC SYSTEM WINDOW
+FACTORY
+manufacturing factory
+26 Gian-dong-ro, Hwaseong-si, Gyeonggi-do
+93-7 Gian-gil, Hwaseong-si, Gyeonggi-do
+Baton Window M-PVC Factory
+CONTACT
+Inquiry
+TEL
+031-295-9043
+FAX
+031-295-9044
+E-MAIL
+vaton@vaton.life
+
+
 
 </body>
 </html>
