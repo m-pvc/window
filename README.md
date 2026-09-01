@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
+  <meta name="google-site-verification" content="u3b44tQCiyN7XRKugJl_ttu0enmIfjz6ypOmaCII4Gw" />
 <head>
   <meta name="google-site-verification" content="u3b44tQCiyN7XRKugJl_ttu0enmIfjz6ypOmaCII4Gw" />
   <meta charset="UTF-8" />
