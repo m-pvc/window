@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
-  <meta name="google-site-verification" content="u3b44tQCiyN7XRKugJl_ttu0enmIfjz6ypOmaCII4Gw" />
 <head>
-  <meta name="google-site-verification" content="u3b44tQCiyN7XRKugJl_ttu0enmIfjz6ypOmaCII4Gw" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   google-site-verification: google0aa0fbf8e15471cd.html
