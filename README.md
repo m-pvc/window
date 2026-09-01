@@ -1,10 +1,10 @@
-<meta name="google-site-verification" content="u3b44tQCiyN7XRKugJl_ttu0enmIfjz6ypOmaCII4Gw" />
 <!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="google-site-verification" content="u3b44tQCiyN7XRKugJl_ttu0enmIfjz6ypOmaCII4Gw" />
+  google-site-verification: google0aa0fbf8e15471cd.html
   <title>M-PVC</title>
 
   <style>
